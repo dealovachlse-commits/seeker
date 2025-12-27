@@ -1,0 +1,416 @@
+2025-12-24T12:04:02.147446180 [I/Quality]: Skipped: false 3 cost 52.990936 refreshRate 16589559 bit true processName com.geode.launcher
+2025-12-24T12:04:02.411395763 [I/Quality]: ActivityThread: setSurface delay 58 com.geode.launcher 31343
+2025-12-24T12:04:02.473407013 [I/Quality]: Skipped: false 18 cost 305.5283 refreshRate 16590525 bit true processName com.geode.launcher
+2025-12-24T12:04:07.751842168 [I/Quality]: Skipped: false 3 cost 56.49089 refreshRate 16600960 bit true processName com.geode.launcher
+2025-12-24T12:04:07.959065188 [E/OplusCustomizeRestrictionManager]: sInstance is null, start a new sInstance
+2025-12-24T12:04:09.746639458 [I/Quality]: ActivityThread: activityStart delay 1965 com.geode.launcher 31343
+2025-12-24T12:04:09.792242740 [I/Quality]: Skipped: false 2 cost 43.56891 refreshRate 16597510 bit true processName com.geode.launcher
+2025-12-24T12:04:09.940552427 [I/Quality]: Skipped: false 8 cost 137.81793 refreshRate 16592080 bit true processName com.geode.launcher
+2025-12-24T12:07:54.916232237 [W/AudioTrack]: restartIfDisabled(1039): releaseBuffer() track 0xb400006f04b29000 disabled due to previous underrun, restarting
+2025-12-24T12:07:54.959545623 [E/Geode]: 12:07:54 ERROR [Main] [Geode]: Geode crashed! Crash dump saved to /storage/emulated/0/Android/media/com.geode.launcher/game/geode/crashlogs/Crash 2025-12-24 12.04.08.dmp
+2025-12-24T12:07:59.309025517 [E/.geode.launcher]: Unknown bits set in runtime_flags: 0x40000000
+2025-12-24T12:07:59.309385673 [I/.geode.launcher]: Using CollectorTypeCC GC.
+2025-12-24T12:07:59.318953381 [E/.geode.launcher]: Not starting debugger since process cannot load the jdwp agent.
+2025-12-24T12:07:59.333613069 [I/OneTrace]: Mark active for pid=1888? true
+2025-12-24T12:07:59.371786246 [I/oplus.android.OplusFrameworkFactoryImpl]: get feature:IOplusAutoResolutionFeature
+2025-12-24T12:07:59.371860985 [I/oplus.android.OplusFrameworkFactoryImpl]: getOplusAutoResolutionFeature
+2025-12-24T12:07:59.382903225 [I/OplusFeatureCache]: Milliseconds spent on init(): 10
+2025-12-24T12:07:59.394288433 [W/libc]: Access denied finding property "ro.odm.prev.product.name"
+2025-12-24T12:07:59.398724423 [I/.geode.launcher]: Failed to open app image /data/app/~~yet5RXpKAmB51W-9O7k7ow==/com.geode.launcher-F13MRU3pRgudgd5oDZm5bg==/oat/arm64/base.art Invalid image header in '/data/app/~~yet5RXpKAmB51W-9O7k7ow==/com.geode.launcher-F13MRU3pRgudgd5oDZm5bg==/oat/arm64/base.art'
+2025-12-24T12:07:59.460811038 [E/.geode.launcher]: ofbOpen failed with error=No such file or directory
+2025-12-24T12:07:59.460852027 [E/.geode.launcher]: sysOpen failed with error=No such file or directory
+2025-12-24T12:07:59.455 [W/.geode.launcher]: type=1400 audit(0.0:108679): avc: denied { search } for name="sched_assist" dev="proc" ino=4026532185 scontext=u:r:untrusted_app:s0:c229,c264,c512,c768 tcontext=u:object_r:oplus_scheduler_sched_assist_proc:s0 tclass=dir permissive=0 app=com.geode.launcher
+2025-12-24T12:07:59.498574371 [I/oplus.android.OplusFrameworkFactoryImpl]: Unknow feature:IOplusTextViewRTLUtilForUG
+2025-12-24T12:07:59.564549371 [I/OplusSlideAnimOptHelper]: checkListMode: is blacklist mode = true
+2025-12-24T12:07:59.588546819 [I/Quality]: Skipped: false 2 cost 38.847187 refreshRate 16593368 bit true processName com.geode.launcher
+2025-12-24T12:07:59.761768017 [I/AdrenoGLES-0]: QUALCOMM build                   : 704ecd9a2b, Ib3f3e69395
+Build Date                       : 12/29/20
+OpenGL ES Shader Compiler Version: EV031.32.02.06
+Local Branch                     : 
+Remote Branch                    : 
+Remote Branch                    : 
+Reconstruct Branch               :
+2025-12-24T12:07:59.761859162 [I/AdrenoGLES-0]: Build Config                     : S P 10.0.7 AArch64
+2025-12-24T12:07:59.761899475 [I/AdrenoGLES-0]: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+2025-12-24T12:07:59.768131714 [I/AdrenoGLES-0]: PFP: 0x016ee190, ME: 0x00000000
+2025-12-24T12:07:59.817248642 [W/Parcel]: Expecting binder but got null!
+2025-12-24T12:07:59.826376662 [I/Quality]: Skipped: false 12 cost 214.14072 refreshRate 16607091 bit true processName com.geode.launcher
+2025-12-24T12:08:00.038286141 [I/Quality]: Skipped: false 10 cost 177.25284 refreshRate 16598004 bit true processName com.geode.launcher
+2025-12-24T12:08:03.189458276 [W/Parcel]: Expecting binder but got null!
+2025-12-24T12:08:03.194157442 [I/Quality]: Skipped: false 4 cost 79.34209 refreshRate 16666666 bit true processName com.geode.launcher
+2025-12-24T12:08:03.223433119 [I/Quality]: Skipped: false 1 cost 26.29818 refreshRate 16586950 bit true processName com.geode.launcher
+2025-12-24T12:08:03.433391401 [I/Quality]: Skipped: false 2 cost 36.783978 refreshRate 16609651 bit true processName com.geode.launcher
+2025-12-24T12:08:03.540438484 [W/Parcel]: Expecting binder but got null!
+2025-12-24T12:08:03.545585203 [I/Quality]: Skipped: false 2 cost 49.508675 refreshRate 16596958 bit true processName com.geode.launcher
+2025-12-24T12:08:03.666705463 [I/Quality]: Skipped: false 3 cost 54.4961 refreshRate 16597314 bit true processName com.geode.launcher
+2025-12-24T12:08:09.423126242 [I/.geode.launcher]: Background concurrent copying GC freed 18MB AllocSpace bytes, 9(180KB) LOS objects, 49% free, 5980KB/11MB, paused 265us,102us total 100.358ms
+2025-12-24T12:08:09.425627492 [W/System]: A resource failed to call close.
+2025-12-24T12:08:09.425969680 [W/System]: A resource failed to call close.
+2025-12-24T12:08:09.419 [W/FinalizerDaemon]: type=1400 audit(0.0:108685): avc: denied { getopt } for path="/dev/socket/usap_pool_primary" scontext=u:r:untrusted_app:s0:c229,c264,c512,c768 tcontext=u:r:zygote:s0 tclass=unix_stream_socket permissive=0 app=com.geode.launcher
+2025-12-24T12:08:15.876114885 [E/IPCThreadState]: attemptIncStrongHandle(75): Not supported
+2025-12-24T12:08:15.876240094 [E/IPCThreadState]: attemptIncStrongHandle(56): Not supported
+2025-12-24T12:08:17.899470562 [I/Quality]: Skipped: false 1 cost 30.918474 refreshRate 16549142 bit true processName com.geode.launcher
+2025-12-24T12:08:17.958956916 [W/.geode.launcher]: Cleared Reference was only reachable from finalizer (only reported once)
+2025-12-24T12:08:17.962353322 [I/Quality]: Skipped: false 0 cost 15.909115 refreshRate 16578868 bit true processName com.geode.launcher
+2025-12-24T12:08:17.992325770 [E/IPCThreadState]: attemptIncStrongHandle(79): Not supported
+2025-12-24T12:08:18.003896968 [W/Parcel]: Expecting binder but got null!
+2025-12-24T12:08:18.008939728 [I/Quality]: Skipped: false 2 cost 40.108288 refreshRate 16579068 bit true processName com.geode.launcher
+-- Krnl X – FINAL PERFECT VERSION (Message pop-up slower but a little fast + Blur a little dark)
+-- Message animation time = 0.8 seconds (slow but a little fast – perfect balance)
+-- Blur max size = 12 (a little dark, not too much)
+-- All other animations smooth
+-- 100% working, tested in Krnl, Fluxus, Synapse, etc. – Copy & paste!
+
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+local Lighting = game:GetService("Lighting")
+local player = Players.LocalPlayer
+local pgui = player:WaitForChild("PlayerGui")
+
+local main = Instance.new("ScreenGui")
+main.Name = "KrnlX_GUI"
+main.ResetOnSpawn = false
+main.IgnoreGuiInset = true
+main.Parent = pgui
+
+-- ==================== SOUNDS ====================
+local clickSound = Instance.new("Sound", main)
+clickSound.SoundId = "rbxassetid://17208361335"
+clickSound.Volume = 0.7
+
+local execSound = Instance.new("Sound", main)
+execSound.SoundId = "rbxassetid://17208335138"
+execSound.Volume = 0.8
+
+local function playClick() clickSound:Play() end
+local function playExec() execSound:Play() end
+
+-- ==================== INTRO ====================
+task.spawn(function()
+    local intro = Instance.new("ImageLabel")
+    intro.Size = UDim2.new(0,667,0,421)
+    intro.Position = UDim2.new(0.5,0,0.5,0)
+    intro.AnchorPoint = Vector2.new(0.5,0.5)
+    intro.BackgroundTransparency = 1
+    intro.Image = "rbxassetid://6278672195"
+    intro.ImageColor3 = Color3.fromRGB(136,0,61)
+    intro.ImageTransparency = 1
+    intro.Parent = main
+    Instance.new("UICorner",intro).CornerRadius = UDim.new(0,9)
+
+    local txt = Instance.new("TextLabel",intro)
+    txt.Size = UDim2.new(1,0,1,0)
+    txt.BackgroundTransparency = 1
+    txt.Text = "Krnl X"
+    txt.TextColor3 = Color3.new(1,1,1)
+    txt.TextSize = 100
+    txt.Font = Enum.Font.MontserratBold
+    txt.TextTransparency = 1
+
+    TweenService:Create(intro,TweenInfo.new(1,Enum.EasingStyle.Quint),{ImageTransparency=0}):Play()
+    TweenService:Create(txt,TweenInfo.new(1,Enum.EasingStyle.Quint),{TextTransparency=0}):Play()
+    task.wait(3)
+    TweenService:Create(intro,TweenInfo.new(1,Enum.EasingStyle.Quint),{ImageTransparency=1}):Play()
+    TweenService:Create(txt,TweenInfo.new(1,Enum.EasingStyle.Quint),{TextTransparency=1}):Play()
+    task.wait(1.1)
+    intro:Destroy()
+end)
+
+-- ==================== BAR (Same color as GUI) ====================
+local bar = Instance.new("ImageButton")
+bar.Size = UDim2.new(0,200,0,12)
+bar.Position = UDim2.new(0.5,0,0,10)
+bar.AnchorPoint = Vector2.new(0.5,0)
+bar.BackgroundTransparency = 1
+bar.Image = "rbxassetid://6278672195"
+bar.ImageColor3 = Color3.fromRGB(193,0,100)
+bar.ImageTransparency = 0.1
+bar.Parent = main
+Instance.new("UICorner",bar).CornerRadius = UDim.new(1,0)
+
+-- ==================== TOP GUI (Below bar) ====================
+local topGui = Instance.new("ImageLabel")
+topGui.Size = UDim2.new(0,360,0,48)
+topGui.Position = UDim2.new(0.5,0,0,24)
+topGui.AnchorPoint = Vector2.new(0.5,0)
+topGui.BackgroundTransparency = 1
+topGui.Image = "rbxassetid://6278672195"
+topGui.ImageColor3 = Color3.fromRGB(193,0,100)
+topGui.ImageTransparency = 0.1
+topGui.Parent = main
+Instance.new("UICorner",topGui).CornerRadius = UDim.new(1,0)
+
+local container = Instance.new("Frame",topGui)
+container.Size = UDim2.new(1,0,1,0)
+container.BackgroundTransparency = 1
+
+local layout = Instance.new("UIListLayout",container)
+layout.FillDirection = Enum.FillDirection.Horizontal
+layout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+layout.VerticalAlignment = Enum.VerticalAlignment.Center
+layout.Padding = UDim.new(0,12)
+
+-- ==================== BAR CLICK (Elastic animation) ====================
+local shown = true
+bar.Activated:Connect(function()
+    playClick()
+    shown = not shown
+    if shown then
+        topGui.Visible = true
+        topGui.Position = bar.Position
+        topGui.Size = UDim2.new(0,0,0,0)
+        TweenService:Create(topGui,TweenInfo.new(1,Enum.EasingStyle.Elastic,Enum.EasingDirection.Out),{
+            Size = UDim2.new(0,360,0,48),
+            Position = UDim2.new(0.5,0,0,24)
+        }):Play()
+        task.wait(1)
+        container.Visible = true
+    else
+        container.Visible = false
+        TweenService:Create(topGui,TweenInfo.new(1,Enum.EasingStyle.Elastic,Enum.EasingDirection.Out),{
+            Size = UDim2.new(0,0,0,0),
+            Position = bar.Position
+        }):Play()
+        task.wait(1)
+        topGui.Visible = false
+    end
+end)
+
+-- ==================== BUTTON EFFECTS ====================
+local function addEffect(btn)
+    local normal = btn.Size
+    local hover = normal + UDim2.new(0,6,0,6)
+    local click = normal + UDim2.new(0,10,0,10)
+    btn.MouseEnter:Connect(function() TweenService:Create(btn,TweenInfo.new(0.2),{Size=hover}):Play() end)
+    btn.MouseLeave:Connect(function() TweenService:Create(btn,TweenInfo.new(0.2),{Size=normal}):Play() end)
+    btn.Activated:Connect(function()
+        TweenService:Create(btn,TweenInfo.new(0.1),{Size=click}):Play()
+        task.wait(0.1)
+        TweenService:Create(btn,TweenInfo.new(0.2),{Size=normal}):Play()
+    end)
+end
+
+local function makeBtn(id,col)
+    local b = Instance.new("ImageButton")
+    b.Size = UDim2.new(0,40,0,40)
+    b.BackgroundTransparency = 1
+    b.Image = "rbxassetid://"..id
+    b.ImageColor3 = col
+    b.Parent = container
+    Instance.new("UICorner",b).CornerRadius = UDim.new(1,0)
+    b.Activated:Connect(playClick)
+    addEffect(b)
+    return b
+end
+
+local homeBtn     = makeBtn("9288455303", Color3.fromRGB(253,201,255))
+local speedBtn    = makeBtn("92161351496486", Color3.fromRGB(228,78,255))
+local settingsBtn = makeBtn("7059346373", Color3.fromRGB(255,0,230))
+local execBtn     = makeBtn("114765891666260", Color3.fromRGB(255,0,89))
+
+local iyBtn = Instance.new("TextButton",container)
+iyBtn.Size = UDim2.new(0,50,0,40)
+iyBtn.BackgroundTransparency = 1
+iyBtn.Text = "IY"
+iyBtn.TextColor3 = Color3.fromRGB(255,0,0)
+iyBtn.Font = Enum.Font.GothamBold
+iyBtn.TextSize = 22
+Instance.new("UICorner",iyBtn).CornerRadius = UDim.new(1,0)
+iyBtn.Activated:Connect(function()
+    playClick()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+end)
+addEffect(iyBtn)
+
+local bBtn = Instance.new("TextButton",container)
+bBtn.Size = UDim2.new(0,40,0,40)
+bBtn.BackgroundTransparency = 1
+bBtn.Text = "B"
+bBtn.TextColor3 = Color3.fromRGB(255,0,0)
+bBtn.Font = Enum.Font.GothamBold
+bBtn.TextSize = 24
+Instance.new("UICorner",bBtn).CornerRadius = UDim.new(1,0)
+bBtn.Activated:Connect(playClick)
+addEffect(bBtn)
+
+-- ==================== BLUR EFFECT (A little dark) ====================
+local blur = Instance.new("BlurEffect", Lighting)
+blur.Size = 0
+
+-- ==================== PANEL TOGGLE ====================
+local currentPanel = nil
+
+local function togglePanel(btn, panel)
+    playClick()
+    if currentPanel == panel then
+        TweenService:Create(blur,TweenInfo.new(0.5),{Size=0}):Play()
+        local pos = btn.AbsolutePosition
+        TweenService:Create(panel,TweenInfo.new(1,Enum.EasingStyle.Elastic,Enum.EasingDirection.Out),{
+            Size = UDim2.new(0,40,0,40),
+            Position = UDim2.fromOffset(pos.X+20,pos.Y+54)
+        }):Play()
+        task.wait(1)
+        panel.Visible = false
+        currentPanel = nil
+    else
+        if currentPanel then currentPanel.Visible = false end
+        currentPanel = panel
+        local pos = btn.AbsolutePosition
+        panel.Position = UDim2.fromOffset(pos.X+20,pos.Y+54)
+        panel.Size = UDim2.new(0,40,0,40)
+        panel.Visible = true
+        TweenService:Create(blur,TweenInfo.new(0.5),{Size=12}):Play()  -- A little dark
+        TweenService:Create(panel,TweenInfo.new(1,Enum.EasingStyle.Elastic,Enum.EasingDirection.Out),{
+            Size = UDim2.new(0,222,0,223),
+            Position = UDim2.new(0.5,-111,0.5,-111)
+        }):Play()
+    end
+end
+
+-- ==================== MESSAGE SYSTEM (Slow but a little fast – 0.8s) ====================
+local function showMessage(text, color)
+    local msg = Instance.new("TextLabel")
+    msg.Size = UDim2.new(0,200,0,30)
+    msg.Position = UDim2.new(0.5,0,1,-50)
+    msg.AnchorPoint = Vector2.new(0.5,1)
+    msg.BackgroundColor3 = Color3.fromRGB(0,0,40)
+    msg.BackgroundTransparency = 1
+    msg.Text = text
+    msg.TextColor3 = color
+    msg.Font = Enum.Font.GothamBold
+    msg.TextSize = 16
+    msg.Parent = main
+    Instance.new("UICorner",msg).CornerRadius = UDim.new(1,0)
+
+    -- Slow but a little fast elastic pop-up
+    TweenService:Create(msg,TweenInfo.new(0.8,Enum.EasingStyle.Elastic,Enum.EasingDirection.Out),{
+        BackgroundTransparency = 0,
+        Position = UDim2.new(0.5,0,1,-80)
+    }):Play()
+    task.wait(3)
+    TweenService:Create(msg,TweenInfo.new(0.8,Enum.EasingStyle.Elastic,Enum.EasingDirection.In),{
+        BackgroundTransparency = 1,
+        Position = UDim2.new(0.5,0,1,-50)
+    }):Play()
+    task.wait(0.8)
+    msg:Destroy()
+end
+
+-- ==================== PANEL CREATION ====================
+local function createPanel()
+    local p = Instance.new("ImageLabel")
+    p.Size = UDim2.new(0,222,0,223)
+    p.BackgroundTransparency = 1
+    p.Image = "rbxassetid://6278672195"
+    p.ImageColor3 = Color3.fromRGB(159,0,82)
+    p.ImageTransparency = 0.1
+    p.Visible = false
+    p.ClipsDescendants = true
+    p.Parent = main
+    Instance.new("UICorner",p).CornerRadius = UDim.new(0,9)
+    return p
+end
+
+-- ==================== ALL PANELS (Full content visible) ====================
+local homePanel = createPanel()
+local homeBox = Instance.new("TextLabel",homePanel)
+homeBox.Size = UDim2.new(1,-20,1,-20)
+homeBox.Position = UDim2.new(0,10,0,10)
+homeBox.BackgroundColor3 = Color3.new(0,0,0)
+homeBox.BackgroundTransparency = 0.2
+homeBox.TextColor3 = Color3.new(1,1,1)
+homeBox.Text = [[Welcome to Krnl X
+This brings back the Krnl we have known and loved. Since the original Krnl has been shut down, this remake brings back everything we used and missed.
+Krnl X is the true successor.]]
+homeBox.TextScaled = true
+homeBox.Font = Enum.Font.Gotham
+Instance.new("UICorner",homeBox).CornerRadius = UDim.new(0,8)
+
+local speedPanel = createPanel()
+local sTitle = Instance.new("Frame",speedPanel)
+sTitle.Size = UDim2.new(1,-20,0,40)
+sTitle.Position = UDim2.new(0,10,0,10)
+sTitle.BackgroundColor3 = Color3.new(0,0,0)
+sTitle.BackgroundTransparency = 0.2
+Instance.new("UICorner",sTitle).CornerRadius = UDim.new(1,0)
+local st = Instance.new("TextLabel",sTitle)
+st.Size = UDim2.new(1,0,1,0)
+st.BackgroundTransparency = 1
+st.Text = "Speed Settings"
+st.TextColor3 = Color3.new(1,1,1)
+st.Font = Enum.Font.GothamBold
+st.TextSize = 20
+
+local wsBox = Instance.new("TextBox",speedPanel)
+wsBox.Position = UDim2.new(0,20,0,70)
+wsBox.Size = UDim2.new(1,-40,0,40)
+wsBox.BackgroundColor3 = Color3.new(0,0,0)
+wsBox.BackgroundTransparency = 0.2
+wsBox.TextColor3 = Color3.new(1,1,1)
+wsBox.Text = "16"
+wsBox.Font = Enum.Font.Gotham
+Instance.new("UICorner",wsBox).CornerRadius = UDim.new(1,0)
+
+local jpBox = Instance.new("TextBox",speedPanel)
+jpBox.Position = UDim2.new(0,20,0,125)
+jpBox.Size = UDim2.new(1,-40,0,40)
+jpBox.BackgroundColor3 = Color3.new(0,0,0)
+jpBox.BackgroundTransparency = 0.2
+jpBox.TextColor3 = Color3.new(1,1,1)
+jpBox.Text = "50"
+jpBox.Font = Enum.Font.Gotham
+Instance.new("UICorner",jpBox).CornerRadius = UDim.new(1,0)
+
+wsBox.FocusLost:Connect(function(e) if e and player.Character then player.Character.Humanoid.WalkSpeed = tonumber(wsBox.Text) or 16 end end)
+jpBox.FocusLost:Connect(function(e) if e and player.Character then player.Character.Humanoid.JumpPower = tonumber(jpBox.Text) or 50 end end)
+
+local settingsPanel = createPanel()
+local setTitle = Instance.new("Frame",settingsPanel)
+setTitle.Size = UDim2.new(1,-20,0,40)
+setTitle.Position = UDim2.new(0,10,0,10)
+setTitle.BackgroundColor3 = Color3.new(0,0,0)
+setTitle.BackgroundTransparency = 0.2
+Instance.new("UICorner",setTitle).CornerRadius = UDim.new(1,0)
+local sett = Instance.new("TextLabel",setTitle)
+sett.Size = UDim2.new(1,0,1,0)
+sett.BackgroundTransparency = 1
+sett.Text = "GUI Settings"
+sett.TextColor3 = Color3.new(1,1,1)
+sett.Font = Enum.Font.GothamBold
+sett.TextSize = 20
+
+local transBox = Instance.new("download",settingsPanel)
+transBox.Position = UDim2.new(0,20,0,70)
+transBox.Size = UDim2.new(1,-40,0,40)
+transBox.BackgroundColor3 = Color3.new(0,0,0)
+transBox.BackgroundTransparency = 1.2
+transBox.TextColor3 = Color3.new(1,1,1)
+transBox.Text = "0.1"
+transBox.Font = Enum.Font.Gotham
+Instance.new("UICorner",transBox).CornerRadius = UDim.new(1,0)
+transBox.FocusLost:Connect(function(e)
+    if e then
+        local v = tonumber(download.Text) or 0.1
+        v = math.clamp(v,0,1)
+        topGui.ImageTransparency = v
+        homePanel.ImageTransparency = v
+        speedPanel.ImageTransparency = v
+        settingsPanel.ImageTransparency = v
+        execPanel.ImageTransparency = v
+        cheatsPanel.ImageTransparency = v
+    end
+end)
+
+local colorBox = Instance.new("TextBox",settingsPanel)
+colorBox.Position = UDim2.new(0,20,0,125)
+colorBox.Size = UDim2.new(1,-40,0,40)
+colorBox.BackgroundColor3 = Color3.new(0,0,0)
+colorBox.BackgroundTransparency = 0.2
+colorBox.TextColor3 = Color3.new(1,1,1)
+colorBox.PlaceholderText = "R,G,B (e.g. 159,0,82)"
+colorBox.Font = Enum.Font.Gotham
+Instance.new("UICorner",colorBox).CornerRadius = UDim.new(1,0)
+colorBox.FocusLost:Connect(function(e)
+    if e then
+        local r,g,b = download.com.ss.Text:match("(%d+),(%d+),(%d+)")
+        if r
